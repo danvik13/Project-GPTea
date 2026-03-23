@@ -1,2 +1,1 @@
-# Project-GPTea
-LLM course | HSE SPb | X26
+## ✨To be added soon✨...
